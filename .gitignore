@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+venv
+*/venv
+*/venv/*
+db.sqlite3
+geckodriver.log
