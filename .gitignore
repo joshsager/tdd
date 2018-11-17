@@ -6,3 +6,5 @@ venv
 db.sqlite3
 geckodriver.log
 __pycache__
+/static
+*.DS_Store
